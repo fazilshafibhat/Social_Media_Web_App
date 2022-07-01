@@ -1,7 +1,7 @@
 # Social_Media_Web_App
 
-The user is authenticated and authorized for creating and deleting posts
-comments likes and profile information. One user is able to chat with other users.
+The user is authenticated and authorized for creating and deleting posts,
+comments, likes, and profile information. One user is able to chat with other users.
 
 # Technology
     1. Node.js
